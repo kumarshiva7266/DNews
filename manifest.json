@@ -1,0 +1,20 @@
+{
+    "name": "Daily News Doze",
+    "short_name": "News Doze",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#354c82",
+    "icons": [
+        {
+            "src": "F:\\AINEWS\\cropped.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "F:\\AINEWS\\news.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
